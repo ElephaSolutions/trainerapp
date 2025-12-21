@@ -1,0 +1,11 @@
+
+> coach-management-app@1.0.0 start
+> expo start
+
+Starting project at /home/code/coach-management-app
+› Port 8081 is running this app in another window
+  /home/code/coach-management-app (pid 10571)
+Input is required, but 'npx expo' is in non-interactive mode.
+Required input:
+> Use port 8082 instead?
+› Skipping dev server
